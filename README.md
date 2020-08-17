@@ -12,8 +12,8 @@ Após a publicação do mapa o usuário decide com quem vai compartilhar(restrit
 
 ## Desenvolvimento
 
-<br>
- 
+<br> 
+
 #### Preparação dos dados através do QGIS
 Definir a base de dados para o local de interesse: os vetores do Municípo, dos Bairros e os pontos de descarte irregular.
 
@@ -105,7 +105,7 @@ Mapa finalizado e incorporado a um site simples desenvolvido em HTML. <br>
 
 <br>
 
-**[DEMO]**(https://danielfbrg.github.io/rdcmap/)
+[DEMO](https://danielfbrg.github.io/rdcmap/)
 
 
 <br>
@@ -113,13 +113,13 @@ Mapa finalizado e incorporado a um site simples desenvolvido em HTML. <br>
 
 ## Fontes
 
-**Google My Maps**
+**Google My Maps** <br>
 https://www.google.com/intl/pt-BR/maps/about/mymaps/
 
-**Aplicativo para Android Google My Maps**
+**Aplicativo para Android Google My Maps** <br>
 https://play.google.com/store/apps/details?id=com.google.android.apps.m4b&hl=pt_BR
 
-**Qgis**
+**Qgis** <br>
 https://qgis.org/en/site/
 
 
